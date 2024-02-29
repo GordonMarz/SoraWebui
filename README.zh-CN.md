@@ -1,5 +1,5 @@
-# SoraWebui
-SoraWebui 是一个开源项目，允许用户使用 OpenAI 的 Sora 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能。
+# SoraWebui 
+SoraWebui 是一个开源项目，允许用户使用 OpenAI 的 Sora 模型使用文本在线生成视频，从而简化视频创建，并具有轻松的一键网站部署功能。Fake API
 👉 [SoraWebui](https://sorawebui.com)
 
 [English](https://github.com/SoraWebui/SoraWebui/blob/main/README.md) | 简体中文 | [日本語](https://github.com/SoraWebui/SoraWebui/blob/main/README.ja-JP.md)
